@@ -10,6 +10,11 @@
     height: auto;
 }
 
+.nine-width {
+    width: 95%;
+    height: auto;
+}
+
 audio {
     width: 100%;
 }
